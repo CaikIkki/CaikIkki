@@ -31,3 +31,11 @@
 </div>
 
 ![Snake animation](https://github.com/CaikIkki/CaikIkki/blob/output/github-contribution-grid-snake.svg)
+
+##
+
+<!-- ![tyrael](https://github.com/CaikIkki/CaikIkki/assets/94667712/ca97ed5a-5f82-47c3-a3c3-61bc7f18a3d4) -->
+
+<div allign="center">
+  <img src="https://github.com/CaikIkki/CaikIkki/assets/94667712/ca97ed5a-5f82-47c3-a3c3-61bc7f18a3d4"
+</div>
