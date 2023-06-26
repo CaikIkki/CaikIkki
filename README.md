@@ -36,5 +36,5 @@
 
 <div allign="center">
   <img src="https://github.com/CaikIkki/CaikIkki/assets/94667712/70986640-7be7-4e2e-897c-a2e62582a1f2">
-  <img src="https://github.com/CaikIkki/CaikIkki/assets/94667712/0fa21760-e168-4b22-b283-3bece68b961b">
+  <!--<img src="https://github.com/CaikIkki/CaikIkki/assets/94667712/0fa21760-e168-4b22-b283-3bece68b961b">-->
 </div>
