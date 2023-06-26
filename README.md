@@ -34,8 +34,7 @@
 
 ##
 
-<!-- ![tyrael](https://github.com/CaikIkki/CaikIkki/assets/94667712/ca97ed5a-5f82-47c3-a3c3-61bc7f18a3d4) -->
-
 <div allign="center">
-  <img src="https://github.com/CaikIkki/CaikIkki/assets/94667712/ca97ed5a-5f82-47c3-a3c3-61bc7f18a3d4"
+  <img src="https://github.com/CaikIkki/CaikIkki/assets/94667712/70986640-7be7-4e2e-897c-a2e62582a1f2">
+  <img src="https://github.com/CaikIkki/CaikIkki/assets/94667712/0fa21760-e168-4b22-b283-3bece68b961b">
 </div>
