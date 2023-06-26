@@ -3,7 +3,6 @@
 - #️⃣ Tenho 20 anos
 - 🎂 17/12/2002
 - 😄 Pronomes: ele/dele
-- 🔠 Tradutor nas horas vagas (Inglês, Espanhol, Alemão)
 - 🔭 Em busca de ser um Desenvolvedor FullStack
 - 🌱 Atualmmente estudando HTML, CSS, Python, e Javascript
 - 🤔 Preciso de ajuda com basicamente o que eu estou estudando
