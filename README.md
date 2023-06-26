@@ -19,6 +19,7 @@
   <img align="center" alt="Ikki-CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Ikki-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Ikki-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="right" alt="Ikki-gif" heigth="150" width="150"src="https://cdn.discordapp.com/attachments/1112123840731041933/1122894421348864060/hi.gif">
 </div>
 
 ##
