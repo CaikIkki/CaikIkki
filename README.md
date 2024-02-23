@@ -1,6 +1,6 @@
 ## Olá, eu sou o Caik de Andrade 👋
 
-- #️⃣ Tenho 20 anos
+- #️⃣ Tenho 21 anos
 - 🎂 17/12/2002
 - 😄 Pronomes: ele/dele
 - 🔭 Em busca de ser um Desenvolvedor FullStack
