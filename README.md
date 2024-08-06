@@ -3,9 +3,9 @@
 - #️⃣ Tenho 21 anos
 - 🎂 17/12/2002
 - 😄 Pronomes: ele/dele
-- 🔭 Em busca de ser um Desenvolvedor FullStack
+- 🔭 Em busca de ser um Programador
 - 🌱 Atualmente estudando HTML, CSS, Python, e Javascript
-- 🤔 Preciso de ajuda com basicamente o que eu estou estudando
+- 🤔 Preciso de ajuda com basicamente tudo o que eu estou estudando.
 
 <div>
   <a href="https://github.com/CaikIkki">
