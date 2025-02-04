@@ -3,7 +3,7 @@
 - #️⃣ Tenho 22 anos
 - 🎂 17/12/2002
 - 😄 Pronomes: ele/dele
-- 🔭 Em busca de ser um Programador
+- 🔭 Em busca de ser um Desenvolvedor Full-Stack
 - 🌱 Atualmente estudando HTML, CSS, e Javascript
 - 🤔 Preciso de ajuda com basicamente tudo o que eu estou estudando.
 
