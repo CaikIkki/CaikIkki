@@ -2,7 +2,6 @@
 
 - #️⃣ I'm 22 old
 - 🎂 17/12/2002
-- 😄 Pronouns: he / him
 - 🔭 Looking to become a full-stack developer
 - 🌱 Currently studying HTML, CSS, e Javascript
 
