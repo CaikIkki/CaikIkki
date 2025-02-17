@@ -1,4 +1,4 @@
-## Hi, I'm Caik de Andrade 👋
+## Hi, you can call me Ikki 👋
 
 - #️⃣ I'm 22 old
 - 🎂 17/12/2002
