@@ -1,11 +1,10 @@
-## Olá, eu sou o Caik de Andrade 👋
+## Hi, I'm Caik de Andrade 👋
 
-- #️⃣ Tenho 22 anos
+- #️⃣ I'm 22 old
 - 🎂 17/12/2002
-- 😄 Pronomes: ele/dele
-- 🔭 Em busca de ser um Desenvolvedor Full-Stack
-- 🌱 Atualmente estudando HTML, CSS, e Javascript
-- 🤔 Preciso de ajuda com basicamente tudo o que eu estou estudando.
+- 😄 Pronouns: he / him
+- 🔭 Looking to become a full-stack developer
+- 🌱 Currently studying HTML, CSS, e Javascript
 
 <div>
   <a href="https://github.com/CaikIkki">
