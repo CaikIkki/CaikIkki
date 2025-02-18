@@ -6,7 +6,7 @@
 - 🌱 Currently studying HTML, CSS, e Javascript
 
 <div>
-  <a href="https://github.com/CaikIkki">
+  <a href="https://github.com/Ikki-1712">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaikIkki&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaikIkki&layout=compact&langs_count=7&theme=dark"/>
 </div>
