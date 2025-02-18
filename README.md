@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://github.com/Ikki-1712">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaikIkki&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaikIkki&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ikki-1712&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikki-1712&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -28,11 +28,11 @@
   <a href="https://www.linkedin.com/in/caik-de-andrade-tucunduva-0462011a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/CaikIkki/CaikIkki/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Ikki-1712/Ikki-1712/blob/output/github-contribution-grid-snake.svg)
 
 ##
 
 <div allign="center">
-  <img src="https://github.com/CaikIkki/CaikIkki/assets/94667712/70986640-7be7-4e2e-897c-a2e62582a1f2">
-<!--   <img src="https://github.com/CaikIkki/CaikIkki/assets/94667712/0fa21760-e168-4b22-b283-3bece68b961b"> -->
+  <img src="https://github.com/Ikki-1712/Ikki-1712/assets/94667712/70986640-7be7-4e2e-897c-a2e62582a1f2">
+<!--   <img src="https://github.com/Ikki-1712/Ikki-1712/assets/94667712/0fa21760-e168-4b22-b283-3bece68b961b"> -->
 </div>
