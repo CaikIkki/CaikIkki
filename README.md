@@ -26,7 +26,7 @@
   <a href="https://instagram.com/caik.andrade.ikki" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/users/1211448434775695362" target="_blank"><img src="https://img.shields.io/badge/Discord-gray?style=for-the-badge&logo=discord" target="_blank"></a>
   <a href = "mailto:caik.andradet9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caik-de-andrade-tucunduva-0462011a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<!--   <a href="https://www.linkedin.com/in/caik-de-andrade-tucunduva-0462011a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
 </div>
 
 ![Snake animation](https://github.com/Ikki-1712/Ikki-1712/blob/output/github-contribution-grid-snake.svg)
