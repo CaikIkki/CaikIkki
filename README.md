@@ -30,9 +30,7 @@
 
 ![Snake animation](https://github.com/Ikki-1712/Ikki-1712/blob/output/github-contribution-grid-snake.svg)
 
-##
-
 <div allign="center">
-  <img src="https://github.com/Ikki-1712/Ikki-1712/assets/94667712/70986640-7be7-4e2e-897c-a2e62582a1f2">
+  <img src="https://github.com/user-attachments/assets/77446dba-6d1b-4b21-bec0-d6f1792c6e0b">
   <!-- <img src="https://github.com/Ikki-1712/Ikki-1712/assets/94667712/0fa21760-e168-4b22-b283-3bece68b961b"> -->
 </div>
