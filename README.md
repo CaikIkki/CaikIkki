@@ -1,6 +1,6 @@
 ## Hello, you can call me Ikki 👋
 
-- #️⃣ I'm 22 old
+- #️⃣ I'm 22 years old
 - 🎂 17/12/2002
 - 🔭 Looking to become a full-stack developer
 - 🌱 Currently studying HTML, CSS, e Javascript
